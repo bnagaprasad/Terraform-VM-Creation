@@ -1,0 +1,8 @@
+resource_group_name = "ucrg"
+location = "canadacentral"
+vnet_name = "ucvnet"
+subnet_name = "ucsubnet"
+vm_name = "ucvm"
+admin_username = "azureuser"
+admin_password = "P@ssw0rd123!"
+ssh_public_key = "C:/Users/Naga/.ssh/azure_vm_key.pub"
